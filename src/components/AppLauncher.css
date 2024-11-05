@@ -1,7 +1,7 @@
 /* src/components/AppLauncher.css */
 
 .app-launcher {
-    position: relative; /* 親要素にポジショニングを設定 */
+    position: relative; 
   }
   
   .launcher-button {
