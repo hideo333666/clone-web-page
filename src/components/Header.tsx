@@ -19,10 +19,8 @@ const Header: React.FC = () => {
                         <Link to="/contact">Contact</Link>
                     </li>
                 </ul>
-            </div>
-            <nav>
                 <AppLauncher />
-            </nav>
+            </div>
         </header>
     )
 }
